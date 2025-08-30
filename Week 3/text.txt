@@ -1,0 +1,492 @@
+
+16www.nust.edu.pk
+Prospectus 2025
+NUST Information and Communication Technologies (ICT)
+Provision of ICT facilities and services to NUST faculty, students and administrative staff is the core functional role of ICT Directorate.
+The directorate is a service provider at NUST Main Campus, Sector H-12 Islamabad and support services to Schools and constituent
+Colleges. The landscape of to provide Quality of Service (QoS) to our valued users is broadly laid out as under:
+ICT Infrastructure
+NUST offers most modern computing and networking facilities and has the distinction of providing internet access since early
+nineties. These include:
+» Main Data Center, which is the hub for dissemination of all ICT services to NUST community.
+» Campus Optical Fiber Network, connecting all buildings with Main Data Center.
+» Gigabit Local Area Networks (LANs) in all Schools.
+» High-speed Internet facility to the users through Pakistan Education and Research Network (PERN) program of Higher Education
+Commission (HEC).
+» Latest high-speed Wi-Fi connecting is established in all hostels under Smart University Project (SUP) through HEC.
+» Central Authentication of all hostel Wi-Fi users for secured Internet access.
+» Computing laboratories are equipped with state-of-the-art servers, computers, software and allied equipment, which are
+connected through high speed LAN.
+» NUST software defined based Intranet is in place connecting all remote Campuses with Main Campus for information and
+resource sharing.
+» Jinnah auditorium is installed with Pakistan’s largest fixed P2.5 SMD video wall with dimensions of 13x29 and high resolution
+graphics capability.
+Qalam – Campus Management Solution
+NUST ICT implemented a campus management solution in Fall 2015. In Fall 2020, this was replaced by an indigenously developed
+software system known as Qalam. Qalam is the automation of the complete student academic life cycle processes and it covers the
+whole spectrum of the academic activities from student admission till graduation.
+Student Life Cycle
+Qalam revolutionizes student lifecycle management by providing a user-friendly platform that allows students to effortlessly access
+and oversee their academic journey. This innovative system enables students to conveniently utilize a range of online services, all
+from the comfort of their homes. The following key modules/applications on Qalam facilitate students throughout their academic
+lifecycle:
+Student Admission
+This application seamlessly enrolls students into the Qalam framework upon their successful admission to NUST.
+Online Career Counseling Application
+The Online Career Counselling App allows students to register for sessions easily. Each student is assigned a dedicated mental
+health professional, who receives session details and schedules through their account. Students can also seek referrals and provide
+feedback on their counselling sessions.
+Course Enrolment
+Course Enrollment empowers students to independently enroll in the offered courses. It also provides students with the ability to
+track their current, active, or past enrollments for a comprehensive overview of their academic journey.
+Attendance
+The Attendance module allows students to track their attendance, communicate with faculty about unmarked attendance, ensuring
+transparency. Students are advised to maintain a minimum 75% attendance for a smooth academic journey.
+Gradebook
+The Gradebook app enables faculty to add grades of students individually in the system. It also empowers students to conveniently
+monitor their assigned grades online, enhancing transparency and serving as a valuable resource for tracking academic progress
+across courses.
+Student Advisory System
+A Student Advisory System is a support and guidance system that provides students with academic and personal assistance
+throughout their educational journey. This application offers the option of guidance on course selection, career planning, and
+addresses students’ concerns and needs to both students and faculty within Qalam. Groups of students can be created and
+categorized as per the advisory needed by the group.
+17www.nust.edu.pk
+Prospectus 2025
+Student Financial
+The Student Financial Application efficiently handles fee
+matters, including invoice generation and payment. Students
+can easily download and upload fee invoices, ensuring a
+streamlined financial transaction process.
+Research Thesis Tracking and Management System - RTTM
+The Research Thesis Tracking Module (RTTM) empowers
+students to initiate and manage their theses seamlessly on
+Qalam. This module ensures that students, advisors, and
+management can effectively track the progress of the thesis,
+fostering clear communication and collaboration throughout
+the research process.
+Financial Aid
+The Financial Aid module adds the functionalities of scholarship
+award and fee waivers. This application is interlinked with
+the Students Financial application and does not generate
+fee invoices to scholarship awardees and generates updated
+invoices to the students with fee waivers.
+Lab Equipment Management System
+The Lab Equipment Management System streamlines equipment
+issuance to students and faculty, ensuring traceability and
+efficient tracking. Users can check equipment availability and
+status in the catalogue, promoting effective management. Lab
+Engineers can explore the catalogue for equipment in other
+labs, optimizing resource utilization.
+Hostel Management
+The Hostel Management app simplifies student accommodation
+registration, utilizing predefined merit criteria for automated
+allocation. This ensures fair and efficient assignment, adding
+transparency and objectivity to the process for an enhanced
+student experience.
+Mess Management
+Mess Management empowers students to efficiently handle
+dining affairs, including check-in/check-out, bill generation, and
+payments. It offers a comprehensive view of payment history,
+ensuring convenient control and contributing to a smoother
+dining experience.
+ICT Help Desk
+The ICT Help Desk system allows students to raise tickets for
+issues, monitoring progress efficiently. Concerns are directed
+to relevant officers for streamlined resolution. Updates on
+each complaint’s status and resolution are available, ensuring a
+transparent and responsive support experience.
+Student Self Services
+Qalam offers a comprehensive suite of student-centric
+features, enhancing the overall academic experience. From the
+convenience of the Student Self Service portal, students can
+seamlessly navigate through attendance monitoring, internship
+enrollment, and access fee invoices. The platform further
+facilitates students in managing their academic journey by
+providing options for course offers and self-enrollment, viewing
+grades, and accessing unofficial transcripts. Additionally, the
+system ensures effective communication through feedback
+and notifications, fostering a streamlined and efficient student
+engagement ecosystem.
+Faculty Lifecycle
+Qalam’s user-friendly platform goes beyond students to
+streamline faculty lifecycle management. This intuitive system
+provides faculty members with easy access to oversee teaching
+and research, enhancing efficiency and accessibility from
+the comfort of their homes. Following are main modules of
+Faculty’s lifecycle on Qalam:
+NUST Research Portal
+The NUST Research Portal empowers faculty members and
+researchers by providing a centralized platform for showcasing
+their research work, projects, and patents. To enhance the
+research quantification process, we have integrated essential
+research frameworks into the portal. Furthermore, dynamic
+graphs and reports have been incorporated to visually highlight
+the impact of the research activities at NUST.
+Faculty Resource Center
+The Faculty Resource Center in NUST’s Academics Directorate
+uploads policies and official documents onto Qalam for
+structured categorization. Faculty members and officers can
+easily access these documents through their Qalam accounts,
+promoting quick and efficient reference.
+Faculty Self-Service
+Within the Faculty Self-Service platform, professors and
+educators benefit from a comprehensive suite of tools tailored
+to streamline their responsibilities. From managing personal
+profiles, including updates, and viewing HR information, to
+overseeing research, intellectual property, and projects profiles,
+this system ensures a holistic approach to faculty engagement.
+Faculty members can efficiently handle administrative tasks
+such as marking attendance and grading, while also actively
+participating in guiding students through industrial visits, mock
+interviews, and internship management. The platform further
+facilitates communication through feedback and survey forms,
+creating a centralized and efficient hub for faculty engagement
+and support.
+NUST Official Web Portal
+The official university web portal serves as the central platform
+for all academic-related activities, providing students with all the
+information they need. The website provides comprehensive
+information about the university, including information about
+the academic programs, courses that are offered, and on-
+campus facilities they can use. With a user-friendly interface and
+easy-to-navigate design, the website is the primary resource for
+students looking for information about the university.
+NUST Admission Portal
+The admission portal has revolutionized the admission process,
+making it simpler and more convenient than before. With the
+admission portal available 24x7, applicants can undertake all
+admission activities such as applying for admission, generating
+admit cards, and uploading relevant documents without
+having to physically visit the university. Also, the applicants
+can conveniently access and track their application status from
+anywhere along with the fully automated merit-generating
+system which enables a faster and more accurate assessment
+of their admission without any human interaction.
+18www.nust.edu.pk
+Prospectus 2025
+Student Affairs
+Students Affairs Directorate primarily deals with Student’s
+Clubs & Societies and extra-curricular activities. The Clubs &
+Societies were established in 2011 with the purpose to provide
+an opportunity to students to exhibit their potential and passion
+to nurture leadership and managerial abilities. The Directorate
+has evolved as a vibrant set-up providing suitable platforms to
+students to pursue their passion for extra-curricular activities
+and explore their potential to grow as wholesome person with
+skills to lead and work in teams.
+Clubs and Societies
+Hundreds of events covering a diverse landscape of activities
+are planned, led and executed by the students every year
+through the platform of Clubs & Societies under the umbrella of
+Student Affairs Directorate. The Clubs and Societies functional
+at NUST are as under:
+» NUST Archery Club
+» NUST Skill Development Club
+» NUST Bio Reach Society
+» NUST Leaders Society
+» NUST Water Sports Club
+» NUST Debating Society
+» NUST Quiz Club
+» NUST Music Society
+» NUST Economics Club
+» NUST Media Club
+» NUST Law Society
+» NUST Ni Hao Club
+» NUST Dramatics Club
+» NUST Social Innovation Society
+» NUST Fine Arts Club
+» NUST Stray Animal Club
+» NUST Environment Club
+» NUST Technical Amusement Club
+» NUST Adventure Club
+» NUST Bazm e Pakistan
+» NUST Book Club
+» NUST Digital Club
+» NUST Materials Society
+» NUST Science Society
+» NUST Literary Circle
+» American Institute of Chemical Engineers - AIChE
+» NUST Fitness Club
+» NUST Excursion Club
+» NUST Hack Club
+» NUST Entrepreneurs Club
+» NUST IEEE Club
+» NUST Paragliding Club
+» NUST Robotics Club
+» NUST Community Services Club
+» NUST Character Building Society
+» American Society of Mechanical Engineering
+» NUST IMEchE
+» NUST ASHRAE
+» NUST Physics and Astronomy Society
+» NUST Trekking Club
+» NUST Chess Club
+Human Resource Management/Development
+NUST is a multi-campus university employing faculty and staff from diverse disciplines. The HR Directorate recruits and retains the
+best workforce to contribute towards the continuing success of the University. It is actively engaged in development of faculty and
+staff to ensure high standard and quality of education.
+The faculty at NUST is actively engaged in research activities and providing an environment of practical learning to the students. The
+HR Directorate supports such programmes for the faculty to keep their expertise up-to-date and develop their skills continuously.
+Eligible faculty is sent abroad for higher studies and research programmes, and is also assisted for placement in various schools
+on their return.
+Career development is another notable function carried out by the HR Directorate. It has successfully carried forward the progress
+of the University to operate at an optimal level in times of financial crunch by exploring/offering fully funded scholarships.
+Faculty Development Programme
+The programme was started in 2002. As many as 430 scholars have been sent abroad for higher studies, out of which 316 have
+joined back.
+19www.nust.edu.pk
+Prospectus 2025
+Vision
+The Student Affairs Directorate strives to be creative with
+maximum student participation and purposeful fun activities
+that help the students’ learning process and augment their
+personality development as future leaders.
+Administrative Aspects
+All Clubs adhere to the following approved appointments:
+» Faculty Sponsor
+» President
+» General Secretary
+» Press Secretary
+» Treasurer
+Half the Office Bearers must be from institutions other than the
+sponsor institution.
+Scope of the Clubs & Societies
+Every Club and Society has its own defined mandate / scope,
+aim and objectives which are in sync with their respective title.
+National Level Events
+The Directorate, in collaboration with selected Clubs and
+Societies, conducts national level events like National Science
+Bee, National Literary Festival etc each year as per the schedule
+of events.
+Summer School
+An initiative of Student Affairs Directorate, with the aim to
+provide pre-University experience to FSC/O level students who
+are aspiring to join the university. It is a quality time investment
+for the prospective university students to understand the eco
+system of university life and helps them make correct career
+choices.
+High Achievers Award
+Student Affairs Directorate arranges the prestigious ceremony
+once a year to recognize and certify the efforts of the students
+who had achieved distinction at International, National or Inter-
+varsity level events / competitions.
+NUST Olympiad
+Student Affairs Directorate arranges NUST Olympiad biannually.
+It is a mega event and caters all the disciplines ranging from
+Science, Technology, Literature, Adventure, Entrepreneurship,
+Media and Sports.
+Orientation Week
+Conducted in September every year by the Student Affairs
+Directorate to extend warm welcome to the freshmen and
+ensure their smooth and seamless transition into the life at
+NUST.
+Lapel Pin Ceremony
+The ceremony is conducted to recognize/ acknowledge the
+efforts of Faculty Sponsors and Student Office Bearers of Clubs
+and Societies for their commendable efforts in organising the
+vast array of events throughout the academic year.
+20www.nust.edu.pk
+Prospectus 2025
+ACCOMMODATION
+Girls Hostels
+» Fatima Hostels - PG Students
+(2 blocks) Single Occupancy with attached
+washrooms
+» Zainab Hostel
+» Ayesha Hostel
+» Khadija Hostel
+» Amna Hostel
+Boys Hostels
+» Rumi Hostel PG Students
+» Johar Hostel PG Students
+» Ammar Hostel PG Students,
+» Ghazali UG Students
+» Beruni UG Students
+» Razi UG Students
+» Rahmat UG Students
+» Attar UG Students
+» Liaquat UG Students
+» Hajveri UG Students
+» Zakariya UG Students
+Monthly Accommodation Charges
+(NUST Campus, H-12, Islamabad)
+Hostel Accommodation Charges for National Students
+» Single occupancy with attached bath Rs. 11000/-
+» Double occupancy with attached bath Rs. 10000/-
+» Double occupancy with community bath Rs. 8000/-
+» Triple occupancy with community bath Rs. 6750/-
+Note:
+» Security Fee of Rs. 15,000/- (Refundable) will be charged at
+the time of allotment.
+» Hostel includes accommodation charges only.
+Secure Environment
+In addition to highly effective Campus security arrangements,
+all hostels have CCTV Cameras, protective boundary walls,
+security personnel and dedicated staff at each block.
+Hostel Management
+A qualified and experienced management team, composed as
+under, looks after hostel affairs:
+» Deputy Director and AD Hostels with Office Staff, Manager
+(Hostels) and Caretakers.
+» Deputy Director Hostels and AD Hostels (Male & Female)
+with Office Staff, Managers (Hostel) and Caretakers
+Manager (Hostels) with necessary staff remains available in
+each hostel round the clock.
+Facilities
+Facilities provided in the hostels include:
+» Attached / Community washrooms
+» Fully furnished rooms
+» Central heating system
+» High Speed internet connectivity
+» Telephone
+» Gymnasium, Billiard Table, Table Tennis
+» TV lounges with Cable TV
+» Dining Halls with attached kitchens and service areas
+» Standby Generator
+» Laundry Service (Free of Cost)
+» Medical Care
+» Prayer Area
+» Vending Machine
+» Water Filtration Plant
+The newly built campus at H-12, Islamabad is located in the serene backdrop of majestic Margalla Hills. The NUST Campus,
+H-12, Islamabad blends old and modern architecture. The Kashmir Highway, which leads to M-1 (Motorway) linking it to the
+rest of the country through a wide range of motorways network, coasts along the campus which is only at 20-minutes drive
+from all the main terminals-air, bus and railways.
+UG Students
+Double / Triple Occupancy
+UG Students
+Triple Occupancy
+NUST Campus, H-12, Islamabad provides well-furnished and equipped male and female hostels named after great Muslim
+Scholars as under:
+Triple / Double
+Occupant with
+Community
+washrooms
+Single Occupancy with
+attached washrooms
+Double Occupancy with
+attached washrooms
+21www.nust.edu.pk
+Prospectus 2025
+Allotment Procedure
+Hostel accommodation in the relevant category is allotted as per Hostel
+Allotment SoP’s. Newly enrolled students may apply online for hostel
+accommodation once their admission is confirmed through following
+links:-
+ugadmissions.nust.edu.pk (For UG Students)
+pgadmission.nust.edu.pk (For PG Students)
+Messing
+The hostels provide catering services and the boarders have a
+choice to enjoy a variety of wholesome food, prepared under
+hygienic conditions.
+Charges
+Mess Security Rs. 15,000/- (Refundable)
+Monthly Charges Rs. 15,175 /- (Rs. 490/- per day)
+Cafeteria and Shopping Complex
+Aesthetically designed cafeterias and shopping complexes,
+called Concordia I and Concordia II, have been constructed
+in the northern and southern wings of NUST Campus, H-12,
+Islamabad. Concordias offer the following services:-
+Concordia-I
+» Cafeteria
+» Mini Mart (Artizm)
+» Refreshment Corner
+» Stationery Shop
+» Photo State / Computer Shop
+Concordia-II
+» Cafeteria
+» Mini Mart
+» Stationery Shop
+» Photo State / Computer Shop
+» Gents Tailor
+» Ladies Tailor
+» Barber Shop
+» Souvenir Shop
+» Photocopier Shop
+» Beauty Parlor (Near new Sports Complex)
+» Retro Café (near Attar Hostels)
+» Coffee Lounge (near Grid Station)
+» South Edge Café (in front of Main Office)
+Shuttle Service
+NUST has a very elaborate and very well organized transport
+system to cater for the needs of students, faculty and staff alike.
+Special emphasis is on environmental friendly transport system.
+NUST runs a fleet of Electric Cars within Campus to minimize
+carbon emission. Electric Cars are utilized to shuttle between
+various locations within the campus i.e. Hostels to various
+School/Offices and from Gates to Schools/Hostels/Offices.
+NUST also has a very well organized mass transit transport
+system for pick and drop of students, faculty and staff from
+all localities of twin cities with variable timings. Transport is
+also made available to facilitate students for industrial visits,
+research projects, club activities, society/community initiatives,
+awareness walks and for excursion trips.
+Sports and Recreation
+NUST offers a wide variety of sports activities. All Colleges
+have elaborate sports infrastructure. The NUST Campus, H-12,
+Islamabad is developing at a fast pace and have the following
+facilities of international standard:-
+Indoor Facilities: 2x Multipurpose hall, 2x Basketball, 1x
+Volleyball, 6x Badminton, 6x Table Tennis, 2x Snooker, 1x
+pool table, 4x Fitness Gyms, 2x Squash Courts, 1x all weather
+Swimming Pool, 1x Bowling Alley.
+Outdoor Facilities:- 2x Football fields, 5x Cricket grounds,
+1x hockey ground, 9x Futsal grounds, 5x Basketball courts,
+1x Handball court , 1x Netball court, 9x Volleyball Courts, 4x
+Badminton courts, 5x Tennis courts, 1x Skating Rink, 1x Climbing
+Wall, 1x Athletic ground, 1x Hiking Trail (1.5 Km).
+Hostels Facilities:- 10x Fitness gym, 8x Table Tennis , 6x Pool
+Tables, 2x Basketball courts, 1x Volleyball court and 17x
+Badminton courts.
+NUST has established a Riding Club in H-12 Campus being the
+pioneer University in Pakistan to have such a facility. Regular
+Inter-College/School Sports Competitions are held every
+year at the University. NUST teams have been participating
+and performing well in HEC Intervarsity Sports Competition
+both at the Zonal and National levels. No of our players have
+represented Pakistan in different Sports and achieved good
+positions at National Levels.
+NUST also has a well qualified and very experienced team of
+sports coaches. They impart the sports coaching to students
+and supervise all the sports activities in the University.
+22www.nust.edu.pk
+Prospectus 2025
+NUST International Office (NIO)
+The NUST International Office (NIO) functions as a pivotal link between the National University of Sciences and Technology (NUST)
+and its global partners, providing essential support and services to the NUST community. NUST currently has over 240 partnerships
+with international universities and organization of over 50 countries of the world. Embracing a diverse international student
+community spanning 19 countries, the NUST International Office (NIO) is committed to providing unwavering support to scholars
+on campus. NIO actively collaborates with faculty, staff, and community members to champion international scholarship, foster
+research initiatives, and enrich learning experiences both within and outside the traditional classroom setting.
+In addition to supporting international students, NIO extends its services to NUST students, offering counseling and guidance
+sessions. These sessions are designed to empower NUST students with the information and resources needed to pursue study
+abroad opportunities. NIO employs a multifaceted approach, utilizing study fairs, seminars, webinars, and informative sessions
+to equip students with the necessary insights and tools for successful international academic pursuits. Through these initiatives,
+NIO aims to facilitate a seamless transition for students into the global academic landscape and broaden their horizons through
+diverse educational experiences.
+Contact Us:
+nio@nust.edu.pk
+UAN: +92-51-111-11-6878
+NUST Placement Office (NPO)
+NUST Placement Office aims to facilitate NUST students and graduates in securing placements in the industries matching their
+specialization. In order to secure maximum placement opportunities for our grads at the top recruiting companies, we are actively
+working jointly with the industry in enhancing placements of NUST students in the market. For yearly summer internships,
+mandatory for final year students at NUST, we have an extensive outreach with the industries which provide our students with the
+much needed exposure to the potential recruiters. Similarly, for job placements, NPO conducts the largest number of on-campus
+recruitment drives, arranges a number of industry sessions and conducts alumni talk series.
+Owing to our steep rise in employability during the last 2 years, we have become Pakistan’s no 1 university in Employability.
+98th position globally and #1 position in Pakistan
+Employers’ Reputation
+23www.nust.edu.pk
+Prospectus 2025
+MEMBERSHIP OF QUALITY ASSURANCE
+ASSOCIATIONS/NETWORKS
+NUST has actively been playing a role of assuring and enhancing the quality of education since its inception. For the
+purpose of learning, knowledge sharing of good practices, global networking and co-organizing international seminars
+and networks, NUST is an active member of following international associations / networks
+International Network of Quality Assurance
+for Higher Education
+Asia-Pacific Quality Network
+Association of Commonwealth Universities
+Association of Management Development Instituti
