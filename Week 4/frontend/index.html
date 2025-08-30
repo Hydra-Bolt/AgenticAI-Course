@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Responsible Demo Agent</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Responsible Demo Agent</h1>
+    <p class="subtitle">Showcasing evaluation, safety & transparency</p>
+    <form id="agent-form">
+      <label>Task (optional): <input type="text" id="task" placeholder="general" /></label>
+      <label>Input:</label>
+      <textarea id="input" rows="4" placeholder="Ask something or type a math expression..."></textarea>
+      <button type="submit">Send</button>
+    </form>
+    <div id="loading" class="hidden">Processing...</div>
+    <div id="result" class="hidden">
+      <h2>Response</h2>
+      <pre id="responseText"></pre>
+      <h3>Metrics</h3>
+      <div id="metrics"></div>
+      <h3>Safety</h3>
+      <div id="safety"></div>
+    </div>
+    <footer>
+      <small>Educational demo. Not a production model. v<span id="version"></span></small>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+Evaluation, Safety &
+Ethics of Agentic AI
+Building Responsible Agents & Robust SystemsTable of contents
+010203
+Building Responsible
+AgentsWhy We EvaluateHow Evaluation is
+Done
+040506
+Risks of Agentic AIStaying Ahead in AIConclusion01
+Building Responsible AgentsBuilding Responsible
+Agents & Robust Systems
+◦ You've built impressive systems: from basic
+LLM apps to workflows with Agentic RAGs.
+◦ Now, we shift our focus to cultivating
+responsible, reflective developers.
+◦ Objective: Learn how to assess, debug,
+and ethically design agentic AI systems.02
+Why We EvaluateBeyond “It Works”
+◦ Simply witnessing an agent complete a
+task is often not enough. We need a
+systematic approach to assess its
+performance.
+◦ Evaluation allows us to identify an agent's
+true strengths, weaknesses, and potential
+failure modes.
+◦ It helps us understand if the agent is truly
+fulfilling its objective, or just appears to be.Driving Improvement &
+Building Trust
+◦ Evaluation is crucial for debugging and
+iteratively improving our agent designs. It's the
+feedback loop that drives progress.
+◦ Rigorously evaluated agents inspire
+greater trust from users and stakeholders.
+◦ Ensures agents are effective, reliable, and
+safe when deployed in real-world scenarios.03
+How Evaluation is
+DoneCore Evaluation Metrics
+for Agents
+◦ Task Success Rate: Does the agent reliably
+complete the task it was assigned?
+◦ Efficiency: How much time and computational
+resources does it consume?
+◦ Accuracy & Hallucination Rate: Is the information
+provided factual and free from fabricated content?
+◦ User Experience Quality: Is the agent intuitive,
+helpful, and pleasant to interact with?Deeper Dive: Context, Cost & Scalability
+Optimization of CostScalability
+▪ Assess resource consumption,
+including API calls and
+computational expenses.▪ How well does the system
+perform under increased load,
+more users, or more complex
+tasks?
+▪ Efficient context management
+and tool selection (e.g., deciding
+when to use a retrieval tool vs. a
+calculator) directly impact cost
+effectiveness.
+▪ A well-designed agentic solution
+must be scalable to be viable in
+real-world applications.04
+Risks of
+Agentic AIThe Darker Side: Unintended
+Consequences
+◦ Over-autonomy & Unintended Actions: Agents,
+especially in multi-agent systems, might take actions that
+deviate from their intended purpose without sufficient
+human oversight.
+◦ Hallucinations Compounded in Loops: Small
+inaccuracies or "hallucinations" can be amplified and
+become critical errors when agents operate in iterative
+decision-making loops.Societal & Ethical Challenges
+◦ Privacy: Agents handling sensitive user data raise
+concerns about data security and privacy.
+◦ Bias & Discrimination: Agents can inadvertently
+learn and perpetuate biases present in their training
+data, leading to unfair or discriminatory outcomes.
+◦ Misalignment: Ensuring the agent's goals and
+objectives truly align with human values and intentions.
+◦ Legal & Societal Implications: Complex questions
+arise regarding accountability and responsibility when an
+autonomous agent makes a mistake or causes harm.05
+Staying
+Ahead in AIWhy Stay Ahead in AI?
+AI is transforming every industry — staying ahead
+means leading change, not following it.
+It’s a powerful tool — boosts creativity, productivity, and
+problem-solving.
+Falling behind is costly — you risk being a passive
+consumer instead of an empowered creator.How I Stay Ahead in AI
+Learn Relentlessly — follow research, test new
+frameworks, and study real-world use cases.
+Build & Experiment — I create projects (bots, apps,
+fine-tuned models) to apply knowledge hands-on.
+Change that Youtube Feed!Conclusion
+◦ Evaluation is non-negotiable for building robust, efficient, and
+trustworthy agentic AI systems.
+◦ Understanding the risks is the first step toward mitigating them
+effectively.
+◦ As developers, you have a crucial role in shaping the future of
+responsible AI.Thanks!
+Do you have any questions?
+youremail@freepik.com
++91 620 421 838
+yourwebsite.com
+CREDITS: This presentation template was created by
+Slidesgo, and includes icons by Flaticon and infographics
+& images by Freepik
+Please keep this slide for attribution
